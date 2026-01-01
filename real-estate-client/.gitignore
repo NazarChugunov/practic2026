@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Стандартні папки збірки
+bin/
+obj/
+# Налаштування Visual Studio
+.vs/
+*.user
+*.suo
+# Файли розгортання
+out/п
