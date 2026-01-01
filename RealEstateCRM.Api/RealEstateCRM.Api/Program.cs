@@ -21,10 +21,25 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-if (app.Environment.IsDevelopment())
+app.UseSwagger();
+app.UseSwaggerUI(c => {
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Real Estate CRM API V1");
+    c.RoutePrefix = "swagger"; 
+});
+
+using (var scope = app.Services.CreateScope())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    var services = scope.ServiceProvider;
+    try
+    {
+        var context = services.GetRequiredService<ApplicationDbContext>();
+        context.Database.Migrate();
+    }
+    catch (Exception ex)
+    {
+        var logger = services.GetRequiredService<ILogger<Program>>();
+        logger.LogError(ex, "Помилка при застосуванні міграцій бази даних.");
+    }
 }
 
 app.UseStaticFiles();
@@ -35,5 +50,10 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.MapGet("/", context => {
+    context.Response.Redirect("/swagger");
+    return Task.CompletedTask;
+});
 
 app.Run();
