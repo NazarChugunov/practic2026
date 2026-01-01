@@ -1,5 +1,4 @@
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\RealEstateCRM.Api.csproj.AssemblyReference.cache
-C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\RealEstateCRM.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\RealEstateCRM.Api.AssemblyInfoInputs.cache
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\RealEstateCRM.Api.AssemblyInfo.cs
@@ -8,7 +7,6 @@ C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\RealEstateCRM.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\bin\Debug\net8.0\appsettings.json
-C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\bin\Debug\net8.0\RealEstateCRM.Api.staticwebassets.endpoints.json
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\bin\Debug\net8.0\RealEstateCRM.Api.exe
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\bin\Debug\net8.0\RealEstateCRM.Api.deps.json
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\bin\Debug\net8.0\RealEstateCRM.Api.runtimeconfig.json
@@ -96,14 +94,9 @@ C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\bin\Debug\
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\scopedcss\bundle\RealEstateCRM.Api.styles.css
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\RealEsta.60769558.Up2Date
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\RealEstateCRM.Api.dll
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\refint\RealEstateCRM.Api.dll
@@ -113,4 +106,8 @@ C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\bin\Debug\net8.0\RealEstateCRM.Api.staticwebassets.runtime.json
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\RealEstateCRM.Api.sourcelink.json
-C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\staticwebassets\msbuild.RealEstateCRM.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.RealEstateCRM.Api.props
+C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RealEstateCRM.Api.props
+C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RealEstateCRM.Api.props
+C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\staticwebassets.pack.json
