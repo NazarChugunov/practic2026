@@ -112,4 +112,5 @@ C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\ref\RealEstateCRM.Api.dll
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\bin\Debug\net8.0\RealEstateCRM.Api.staticwebassets.runtime.json
+C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\RealEstateCRM.Api.sourcelink.json
 C:\Users\agnes\Desktop\Realestate\RealEstateCRM.Api\RealEstateCRM.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
