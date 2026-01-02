@@ -3,7 +3,7 @@ import axios from 'axios';
 import Modal from './Modal';
 import './App.css';
 
-const API_BASE = 'https://localhost:7178'; 
+const API_BASE = 'https://practic2026-production.up.railway.app'; 
 
 const Contacts = () => {
   const [contacts, setContacts] = useState([]);

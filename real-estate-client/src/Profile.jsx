@@ -32,7 +32,7 @@ function Profile({ user, onUpdate, onLogout }) {
         formData.append('Login', user.email); 
         formData.append('File', avatarFile);
 
-        const res = await axios.post('https://localhost:7178/api/Auth/upload-avatar', formData, {
+        const res = await axios.post('https://practic2026-production.up.railway.app/api/Auth/upload-avatar', formData, {
           headers: { 'Content-Type': 'multipart/form-data' }
         });
         
@@ -51,7 +51,7 @@ function Profile({ user, onUpdate, onLogout }) {
 
   const getAvatarSrc = () => {
     if (avatarPreview) return avatarPreview;
-    if (user.avatarUrl) return `https://localhost:7178${user.avatarUrl}`;
+    if (user.avatarUrl) return `https://practic2026-production.up.railway.app${user.avatarUrl}`;
     return null;
   };
 

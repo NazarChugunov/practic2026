@@ -1,4 +1,4 @@
-@RealEstateCRM.Api_HostAddress = http://localhost:5165
+@RealEstateCRM.Api_HostAddress = http://practic2026-production.up.railway.app
 
 GET {{RealEstateCRM.Api_HostAddress}}/weatherforecast/
 Accept: application/json

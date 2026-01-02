@@ -31,14 +31,14 @@ function Login({ onLoginSuccess }) {
 
     try {
       if (isLoginMode) {
-        const res = await axios.post('https://localhost:7178/api/Auth/login', {
+        const res = await axios.post('https://practic2026-production.up.railway.app/api/Auth/login', {
           email: login,
           passwordHash: password
         });
         localStorage.setItem('user', JSON.stringify(res.data));
         onLoginSuccess(res.data);
       } else {
-        await axios.post('https://localhost:7178/api/Auth/register', {
+        await axios.post('https://practic2026-production.up.railway.app/api/Auth/register', {
           fullName: fullName,
           email: login,
           passwordHash: password,

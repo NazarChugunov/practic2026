@@ -7,7 +7,7 @@ import Modal from './Modal';
 import ObjectDetails from './ObjectDetails';
 import './App.css';
 
-const API_BASE = 'https://localhost:7178';
+const API_BASE = 'https://practic2026-production.up.railway.app';
 
 function App() {
   const [user, setUser] = useState(JSON.parse(localStorage.getItem('user')));
